@@ -4,9 +4,13 @@
 Trabalho com desenvolvimento de aplicativos Android utilizando Kotlin, Android Studio e seguindo as boas práticas recomendadas pela plataforma.
 
 🚀 Sobre mim
+
 📌 Experiência em desenvolvimento Android com Kotlin
+
 ⚙️ Familiaridade com Jetpack Components (ViewModel, LiveData, Room, Navigation, etc.)
+
 🎨 Conhecimento em Material Design
+
 📚 Sempre estudando novas tecnologias e boas práticas para evoluir como dev
 
 🛠️ Tecnologias & Ferramentas
