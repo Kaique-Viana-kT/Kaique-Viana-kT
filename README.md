@@ -1,4 +1,5 @@
 👋 Olá! Eu sou o Kaique Viana
+
 📱 Desenvolvedor Android Júnior
 
 Trabalho com desenvolvimento de aplicativos Android utilizando Kotlin, Android Studio e seguindo as boas práticas recomendadas pela plataforma.
