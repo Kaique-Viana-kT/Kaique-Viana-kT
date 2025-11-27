@@ -8,8 +8,6 @@ Trabalho com desenvolvimento de aplicativos Android utilizando Kotlin, Android S
 
 📌 Experiência em desenvolvimento Android com Kotlin
 
-⚙️ Familiaridade com Jetpack Components (ViewModel, LiveData, Room, Navigation, etc.)
-
 🎨 Conhecimento em Material Design
 
 📚 Sempre estudando novas tecnologias e boas práticas para evoluir como dev
@@ -26,8 +24,6 @@ Trabalho com desenvolvimento de aplicativos Android utilizando Kotlin, Android S
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-
-Jetpack Components
 
 Retrofit / OkHttp
 
